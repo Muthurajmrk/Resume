@@ -1,2 +1,1 @@
-# Resume
-My Resume
+https://muthurajmrk.github.io/Resume/
